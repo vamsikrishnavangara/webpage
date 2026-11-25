@@ -1,0 +1,3 @@
+def newproject():
+    pass
+newproject()
